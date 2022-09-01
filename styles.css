@@ -43,8 +43,9 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     display: flex;
     justify-content: space-around;
     flex-direction: row;
-    margin-top: 15px;
+    align-items: baseline;
 }
+
 
 /* Ejercicio 6 */
 
